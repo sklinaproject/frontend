@@ -1,6 +1,6 @@
 
 1. node.js 설치
-2. fronend 폴더 
+2. frontend 폴더 
 - npm install
 - npm install @material-ui/core
 - npm install axios
